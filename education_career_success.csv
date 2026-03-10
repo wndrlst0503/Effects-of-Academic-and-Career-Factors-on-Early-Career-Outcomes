@@ -1,0 +1,401 @@
+Student_ID,Age,Gender,Field_of_Study,Internship_Category,Job_Offers_Category,Starting_Salary
+S001,22,Male,Computer Science,3+,3+,85000
+S002,24,Female,Business,2,2,65000
+S003,21,Male,Engineering,3+,3+,120000
+S004,23,Female,Psychology,1,1,48000
+S005,25,Male,Medicine,2,3+,95000
+S006,22,Female,Education,1,1,42000
+S007,24,Male,Arts,0,0,35000
+S008,23,Female,Law,3+,3+,110000
+S009,21,Male,Finance,2,2,72000
+S010,25,Female,Computer Science,3+,3+,140000
+S011,22,Male,Marketing,1,1,40000
+S012,24,Female,Nursing,2,2,68000
+S013,23,Male,Engineering,2,2,60000
+S014,21,Female,Business,3+,3+,90000
+S015,25,Male,Computer Science,3+,3+,80000
+S016,22,Female,Psychology,1,1,45000
+S017,24,Male,Arts,0,0,32000
+S018,23,Female,Medicine,3+,3+,150000
+S019,21,Male,Engineering,3+,3+,95000
+S020,25,Female,Education,2,2,52000
+S021,22,Male,Finance,3+,3+,105000
+S022,24,Female,Marketing,2,2,72000
+S023,23,Male,Business,1,1,48000
+S024,21,Female,Computer Science,3+,3+,135000
+S025,25,Male,Law,3+,3+,98000
+S026,22,Female,Nursing,2,2,65000
+S027,24,Male,Psychology,1,1,42000
+S028,23,Female,Engineering,3+,3+,115000
+S029,21,Male,Business,2,2,78000
+S030,25,Female,Medicine,3+,3+,145000
+S031,22,Male,Marketing,1,1,46000
+S032,24,Female,Finance,3+,3+,88000
+S033,23,Male,Computer Science,2,2,70000
+S034,21,Female,Business,3+,3+,102000
+S035,25,Male,Engineering,3+,3+,82000
+S036,22,Female,Arts,0,0,34000
+S037,24,Male,Law,3+,3+,125000
+S038,23,Female,Psychology,2,2,68000
+S039,21,Male,Medicine,2,2,62000
+S040,25,Female,Computer Science,3+,3+,112000
+S041,22,Male,Business,2,2,76000
+S042,24,Female,Education,1,1,50000
+S043,23,Male,Arts,0,0,31000
+S044,21,Female,Engineering,3+,3+,138000
+S045,25,Male,Finance,3+,3+,92000
+S046,22,Female,Marketing,2,2,64000
+S047,24,Male,Psychology,1,1,44000
+S048,23,Female,Business,3+,3+,98000
+S049,21,Male,Computer Science,2,2,80000
+S050,25,Female,Medicine,3+,3+,142000
+S051,22,Male,Engineering,2,2,68000
+S052,24,Female,Business,3+,3+,88000
+S053,23,Male,Marketing,1,1,46000
+S054,21,Female,Computer Science,3+,3+,135000
+S055,25,Male,Law,3+,3+,82000
+S056,22,Female,Arts,0,0,34000
+S057,24,Male,Medicine,3+,3+,115000
+S058,23,Female,Finance,2,2,78000
+S059,21,Male,Engineering,3+,3+,98000
+S060,25,Female,Psychology,2,2,65000
+S061,22,Male,Business,1,1,52000
+S062,24,Female,Computer Science,3+,3+,142000
+S063,23,Male,Law,3+,3+,92000
+S064,21,Female,Nursing,2,2,68000
+S065,25,Male,Arts,0,0,31000
+S066,22,Female,Business,3+,3+,102000
+S067,24,Male,Engineering,2,2,76000
+S068,23,Female,Psychology,3+,3+,72000
+S069,21,Male,Medicine,3+,3+,148000
+S070,25,Female,Marketing,3+,3+,84000
+S071,22,Male,Business,1,1,56000
+S072,24,Female,Computer Science,3+,3+,118000
+S073,23,Male,Law,2,2,68000
+S074,21,Female,Engineering,3+,3+,94000
+S075,25,Male,Medicine,3+,3+,152000
+S076,22,Female,Psychology,2,2,70000
+S077,24,Male,Arts,1,1,46000
+S078,23,Female,Business,3+,3+,108000
+S079,21,Male,Engineering,2,2,74000
+S080,25,Female,Marketing,3+,3+,90000
+S081,22,Male,Business,1,1,52000
+S082,24,Female,Computer Science,3+,3+,138000
+S083,23,Male,Law,3+,3+,86000
+S084,21,Female,Psychology,2,2,62000
+S085,25,Male,Engineering,3+,3+,112000
+S086,22,Female,Business,3+,3+,88000
+S087,24,Male,Arts,1,1,48000
+S088,23,Female,Medicine,3+,3+,98000
+S089,21,Male,Computer Science,3+,3+,144000
+S090,25,Female,Marketing,2,2,68000
+S091,22,Male,Psychology,1,1,44000
+S092,24,Female,Business,3+,3+,104000
+S093,23,Male,Engineering,2,2,80000
+S094,21,Female,Medicine,3+,3+,92000
+S095,25,Male,Computer Science,3+,3+,146000
+S096,22,Female,Law,2,2,72000
+S097,24,Male,Business,1,1,56000
+S098,23,Female,Psychology,3+,3+,100000
+S099,21,Male,Engineering,2,2,78000
+S100,25,Female,Medicine,3+,3+,94000
+S101,22,Male,Business,2,2,72000
+S102,24,Female,Engineering,3+,3+,88000
+S103,23,Male,Psychology,1,1,56000
+S104,21,Female,Computer Science,3+,3+,140000
+S105,25,Male,Law,3+,3+,84000
+S106,22,Female,Arts,0,0,38000
+S107,24,Male,Medicine,3+,3+,118000
+S108,23,Female,Marketing,2,2,76000
+S109,21,Male,Engineering,3+,3+,96000
+S110,25,Female,Business,2,2,68000
+S111,22,Male,Psychology,1,1,48000
+S112,24,Female,Computer Science,3+,3+,136000
+S113,23,Male,Law,3+,3+,84000
+S114,21,Female,Marketing,2,2,64000
+S115,25,Male,Engineering,3+,3+,114000
+S116,22,Female,Business,3+,3+,90000
+S117,24,Male,Arts,1,1,52000
+S118,23,Female,Medicine,3+,3+,96000
+S119,21,Male,Computer Science,3+,3+,148000
+S120,25,Female,Law,3+,3+,88000
+S121,22,Male,Psychology,1,1,46000
+S122,24,Female,Business,3+,3+,106000
+S123,23,Male,Engineering,2,2,78000
+S124,21,Female,Marketing,3+,3+,72000
+S125,25,Male,Medicine,3+,3+,150000
+S126,22,Female,Business,2,2,70000
+S127,24,Male,Arts,1,1,50000
+S128,23,Female,Engineering,3+,3+,110000
+S129,21,Male,Law,2,2,82000
+S130,25,Female,Psychology,3+,3+,86000
+S131,22,Male,Business,1,1,54000
+S132,24,Female,Computer Science,3+,3+,138000
+S133,23,Male,Marketing,3+,3+,88000
+S134,21,Female,Engineering,2,2,72000
+S135,25,Male,Business,3+,3+,104000
+S136,22,Female,Psychology,2,2,74000
+S137,24,Male,Arts,1,1,52000
+S138,23,Female,Medicine,3+,3+,98000
+S139,21,Male,Computer Science,3+,3+,144000
+S140,25,Female,Law,2,2,76000
+S141,22,Male,Business,1,1,48000
+S142,24,Female,Marketing,3+,3+,102000
+S143,23,Male,Engineering,2,2,80000
+S144,21,Female,Psychology,3+,3+,94000
+S145,25,Male,Medicine,3+,3+,146000
+S146,22,Female,Business,2,2,70000
+S147,24,Male,Arts,1,1,54000
+S148,23,Female,Computer Science,3+,3+,108000
+S149,21,Male,Law,2,2,82000
+S150,25,Female,Psychology,3+,3+,88000
+S151,22,Male,Engineering,2,2,74000
+S152,24,Female,Business,3+,3+,134000
+S153,23,Male,Marketing,3+,3+,90000
+S154,21,Female,Psychology,1,1,56000
+S155,25,Male,Engineering,3+,3+,116000
+S156,22,Female,Business,3+,3+,88000
+S157,24,Male,Law,2,2,72000
+S158,23,Female,Computer Science,3+,3+,140000
+S159,21,Male,Psychology,2,2,80000
+S160,25,Female,Marketing,3+,3+,94000
+S161,22,Male,Business,1,1,52000
+S162,24,Female,Engineering,3+,3+,110000
+S163,23,Male,Law,2,2,76000
+S164,21,Female,Psychology,3+,3+,90000
+S165,25,Male,Medicine,3+,3+,148000
+S166,22,Female,Business,2,2,84000
+S167,24,Male,Arts,1,1,50000
+S168,23,Female,Computer Science,3+,3+,106000
+S169,21,Male,Marketing,2,2,78000
+S170,25,Female,Engineering,3+,3+,92000
+S171,22,Male,Business,2,2,72000
+S172,24,Female,Engineering,3+,3+,88000
+S173,23,Male,Psychology,1,1,56000
+S174,21,Female,Computer Science,3+,3+,140000
+S175,25,Male,Law,3+,3+,84000
+S176,22,Female,Arts,0,0,38000
+S177,24,Male,Medicine,3+,3+,118000
+S178,23,Female,Marketing,2,2,76000
+S179,21,Male,Engineering,3+,3+,96000
+S180,25,Female,Business,2,2,68000
+S181,22,Male,Psychology,1,1,48000
+S182,24,Female,Computer Science,3+,3+,136000
+S183,23,Male,Law,3+,3+,84000
+S184,21,Female,Marketing,2,2,64000
+S185,25,Male,Engineering,3+,3+,114000
+S186,22,Female,Business,3+,3+,90000
+S187,24,Male,Arts,1,1,52000
+S188,23,Female,Medicine,3+,3+,96000
+S189,21,Male,Computer Science,3+,3+,148000
+S190,25,Female,Law,3+,3+,88000
+S191,22,Male,Psychology,1,1,46000
+S192,24,Female,Business,3+,3+,106000
+S193,23,Male,Engineering,2,2,78000
+S194,21,Female,Marketing,3+,3+,72000
+S195,25,Male,Medicine,3+,3+,150000
+S196,22,Female,Business,2,2,70000
+S197,24,Male,Arts,1,1,50000
+S198,23,Female,Engineering,3+,3+,110000
+S199,21,Male,Law,2,2,82000
+S200,25,Female,Psychology,3+,3+,86000
+S201,22,Male,Business,1,1,54000
+S202,24,Female,Computer Science,3+,3+,138000
+S203,23,Male,Marketing,3+,3+,88000
+S204,21,Female,Engineering,2,2,72000
+S205,25,Male,Business,3+,3+,104000
+S206,22,Female,Psychology,2,2,74000
+S207,24,Male,Arts,1,1,52000
+S208,23,Female,Medicine,3+,3+,98000
+S209,21,Male,Computer Science,3+,3+,144000
+S210,25,Female,Law,2,2,76000
+S211,22,Male,Business,1,1,48000
+S212,24,Female,Marketing,3+,3+,102000
+S213,23,Male,Engineering,2,2,80000
+S214,21,Female,Psychology,3+,3+,94000
+S215,25,Male,Medicine,3+,3+,146000
+S216,22,Female,Business,2,2,70000
+S217,24,Male,Arts,1,1,54000
+S218,23,Female,Computer Science,3+,3+,108000
+S219,21,Male,Law,2,2,82000
+S220,25,Female,Psychology,3+,3+,88000
+S221,22,Male,Engineering,2,2,74000
+S222,24,Female,Business,3+,3+,134000
+S223,23,Male,Marketing,3+,3+,90000
+S224,21,Female,Psychology,1,1,56000
+S225,25,Male,Engineering,3+,3+,116000
+S226,22,Female,Business,3+,3+,88000
+S227,24,Male,Law,2,2,72000
+S228,23,Female,Computer Science,3+,3+,140000
+S229,21,Male,Psychology,2,2,80000
+S230,25,Female,Marketing,3+,3+,94000
+S231,22,Male,Business,2,2,72000
+S232,24,Female,Engineering,3+,3+,88000
+S233,23,Male,Psychology,1,1,56000
+S234,21,Female,Computer Science,3+,3+,140000
+S235,25,Male,Law,3+,3+,84000
+S236,22,Female,Arts,0,0,38000
+S237,24,Male,Medicine,3+,3+,118000
+S238,23,Female,Marketing,2,2,76000
+S239,21,Male,Engineering,3+,3+,96000
+S240,25,Female,Business,2,2,68000
+S241,22,Male,Psychology,1,1,48000
+S242,24,Female,Computer Science,3+,3+,136000
+S243,23,Male,Law,3+,3+,84000
+S244,21,Female,Marketing,2,2,64000
+S245,25,Male,Engineering,3+,3+,114000
+S246,22,Female,Business,3+,3+,90000
+S247,24,Male,Arts,1,1,52000
+S248,23,Female,Medicine,3+,3+,96000
+S249,21,Male,Computer Science,3+,3+,148000
+S250,25,Female,Law,3+,3+,88000
+S251,22,Male,Psychology,1,1,46000
+S252,24,Female,Business,3+,3+,106000
+S253,23,Male,Engineering,2,2,78000
+S254,21,Female,Marketing,3+,3+,72000
+S255,25,Male,Medicine,3+,3+,150000
+S256,22,Female,Business,2,2,70000
+S257,24,Male,Arts,1,1,50000
+S258,23,Female,Computer Science,3+,3+,110000
+S259,21,Male,Law,2,2,82000
+S260,25,Female,Psychology,3+,3+,86000
+S261,22,Male,Business,1,1,54000
+S262,24,Female,Computer Science,3+,3+,138000
+S263,23,Male,Marketing,3+,3+,88000
+S264,21,Female,Engineering,2,2,72000
+S265,25,Male,Business,3+,3+,104000
+S266,22,Female,Psychology,2,2,74000
+S267,24,Male,Arts,1,1,52000
+S268,23,Female,Medicine,3+,3+,98000
+S269,21,Male,Computer Science,3+,3+,144000
+S270,25,Female,Law,2,2,76000
+S271,22,Male,Business,1,1,48000
+S272,24,Female,Marketing,3+,3+,102000
+S273,23,Male,Engineering,2,2,80000
+S274,21,Female,Psychology,3+,3+,94000
+S275,25,Male,Medicine,3+,3+,146000
+S276,22,Female,Business,2,2,70000
+S277,24,Male,Arts,1,1,54000
+S278,23,Female,Computer Science,3+,3+,108000
+S279,21,Male,Law,2,2,82000
+S280,25,Female,Psychology,3+,3+,88000
+S281,22,Male,Engineering,2,2,74000
+S282,24,Female,Business,3+,3+,134000
+S283,23,Male,Marketing,3+,3+,90000
+S284,21,Female,Psychology,1,1,56000
+S285,25,Male,Engineering,3+,3+,116000
+S286,22,Female,Business,3+,3+,88000
+S287,24,Male,Law,2,2,72000
+S288,23,Female,Computer Science,3+,3+,140000
+S289,21,Male,Psychology,2,2,80000
+S290,25,Female,Marketing,3+,3+,94000
+S291,22,Male,Business,1,1,52000
+S292,24,Female,Engineering,3+,3+,110000
+S293,23,Male,Law,2,2,76000
+S294,21,Female,Psychology,3+,3+,90000
+S295,25,Male,Medicine,3+,3+,148000
+S296,22,Female,Business,2,2,84000
+S297,24,Male,Arts,1,1,50000
+S298,23,Female,Computer Science,3+,3+,106000
+S299,21,Male,Marketing,2,2,78000
+S300,25,Female,Engineering,3+,3+,92000
+S301,22,Male,Business,2,2,72000
+S302,24,Female,Engineering,3+,3+,88000
+S303,23,Male,Psychology,1,1,56000
+S304,21,Female,Computer Science,3+,3+,140000
+S305,25,Male,Law,3+,3+,84000
+S306,22,Female,Arts,0,0,38000
+S307,24,Male,Medicine,3+,3+,118000
+S308,23,Female,Marketing,2,2,76000
+S309,21,Male,Engineering,3+,3+,96000
+S310,25,Female,Business,2,2,68000
+S311,22,Male,Psychology,1,1,48000
+S312,24,Female,Computer Science,3+,3+,136000
+S313,23,Male,Law,3+,3+,84000
+S314,21,Female,Marketing,2,2,64000
+S315,25,Male,Engineering,3+,3+,114000
+S316,22,Female,Business,3+,3+,90000
+S317,24,Male,Arts,1,1,52000
+S318,23,Female,Medicine,3+,3+,96000
+S319,21,Male,Computer Science,3+,3+,148000
+S320,25,Female,Law,3+,3+,88000
+S321,22,Male,Psychology,1,1,46000
+S322,24,Female,Business,3+,3+,106000
+S323,23,Male,Engineering,2,2,78000
+S324,21,Female,Marketing,3+,3+,72000
+S325,25,Male,Medicine,3+,3+,150000
+S326,22,Female,Business,2,2,70000
+S327,24,Male,Arts,1,1,50000
+S328,23,Female,Computer Science,3+,3+,110000
+S329,21,Male,Law,2,2,82000
+S330,25,Female,Psychology,3+,3+,86000
+S331,22,Male,Business,1,1,54000
+S332,24,Female,Computer Science,3+,3+,138000
+S333,23,Male,Marketing,3+,3+,88000
+S334,21,Female,Engineering,2,2,72000
+S335,25,Male,Business,3+,3+,104000
+S336,22,Female,Psychology,2,2,74000
+S337,24,Male,Arts,1,1,52000
+S338,23,Female,Medicine,3+,3+,98000
+S339,21,Male,Computer Science,3+,3+,144000
+S340,25,Female,Law,2,2,76000
+S341,22,Male,Business,1,1,48000
+S342,24,Female,Marketing,3+,3+,102000
+S343,23,Male,Engineering,2,2,80000
+S344,21,Female,Psychology,3+,3+,94000
+S345,25,Male,Medicine,3+,3+,146000
+S346,22,Female,Business,2,2,70000
+S347,24,Male,Arts,1,1,54000
+S348,23,Female,Computer Science,3+,3+,108000
+S349,21,Male,Law,2,2,82000
+S350,25,Female,Psychology,3+,3+,88000
+S351,22,Male,Engineering,2,2,74000
+S352,24,Female,Business,3+,3+,134000
+S353,23,Male,Marketing,3+,3+,90000
+S354,21,Female,Psychology,1,1,56000
+S355,25,Male,Engineering,3+,3+,116000
+S356,22,Female,Business,3+,3+,88000
+S357,24,Male,Law,2,2,72000
+S358,23,Female,Computer Science,3+,3+,140000
+S359,21,Male,Psychology,2,2,80000
+S360,25,Female,Marketing,3+,3+,94000
+S361,22,Male,Business,1,1,52000
+S362,24,Female,Engineering,3+,3+,110000
+S363,23,Male,Law,2,2,76000
+S364,21,Female,Psychology,3+,3+,90000
+S365,25,Male,Medicine,3+,3+,148000
+S366,22,Female,Business,2,2,84000
+S367,24,Male,Arts,1,1,50000
+S368,23,Female,Computer Science,3+,3+,106000
+S369,21,Male,Marketing,2,2,78000
+S370,25,Female,Engineering,3+,3+,92000
+S371,22,Male,Law,1,1,54000
+S372,24,Female,Business,3+,3+,134000
+S373,23,Male,Marketing,3+,3+,90000
+S374,21,Female,Psychology,1,1,56000
+S375,25,Male,Engineering,3+,3+,116000
+S376,22,Female,Business,3+,3+,88000
+S377,24,Male,Law,2,2,72000
+S378,23,Female,Computer Science,3+,3+,140000
+S379,21,Male,Psychology,2,2,80000
+S380,25,Female,Marketing,3+,3+,94000
+S381,22,Male,Business,1,1,52000
+S382,24,Female,Engineering,3+,3+,110000
+S383,23,Male,Law,2,2,76000
+S384,21,Female,Psychology,3+,3+,90000
+S385,25,Male,Medicine,3+,3+,148000
+S386,22,Female,Business,2,2,84000
+S387,24,Male,Arts,1,1,50000
+S388,23,Female,Computer Science,3+,3+,106000
+S389,21,Male,Marketing,2,2,78000
+S390,25,Female,Engineering,3+,3+,92000
+S391,22,Male,Law,1,1,54000
+S392,24,Female,Business,3+,3+,134000
+S393,23,Male,Marketing,3+,3+,90000
+S394,21,Female,Psychology,1,1,56000
+S395,25,Male,Engineering,3+,3+,116000
+S396,22,Female,Business,3+,3+,88000
+S397,24,Male,Law,2,2,72000
+S398,23,Female,Computer Science,3+,3+,140000
+S399,21,Male,Psychology,2,2,80000
+S400,25,Female,Marketing,3+,3+,94000
